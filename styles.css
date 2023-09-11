@@ -1,4 +1,4 @@
-.profile {
+/* .profile {
     border-radius: 50%;
 }
 body {
@@ -9,4 +9,36 @@ hr {
   border-style: dotted;
   height: 0;
   width: 30%;
+} */
+.lisa {
+    border: solid rgb(0, 0, 0) 3px;
+} 
+.bottom {
+    background-color:rgb(255, 255, 255);
+}
+.contact {
+    background-color: rgb(255, 0, 0);
+}
+.header{
+    background-color: rgb(255, 255, 255);
+}
+.middle{
+    background-color: rgb(209, 209, 209);
+}
+.profile {
+    border-radius: 50%;
+}
+
+body {
+    margin: 0;
+}
+h3 {
+    margin-top: 0;
+}
+hr {
+    border-style: dotted none none;
+    width: 30%;
+    border-color: grey;
+    border-width:5px;
+    margin-bottom: 0;
 }
