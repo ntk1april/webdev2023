@@ -4,3 +4,12 @@
 .profile {
     border-radius: 50%;
 }
+body {
+    background-color: rgb(207, 207, 207);
+}
+hr {
+    background-color: white;
+  border-style: dotted;
+  height: 0;
+  width: 30%;
+}
